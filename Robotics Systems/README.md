@@ -1,23 +1,29 @@
 # Resume-Robotics-Systems-Examples
 Examples of Previous Robotics Systems that I lead the design and construction of demonstrating design and manufacturing abilities
+
+--
+Reader's Note: Over my career participating in the FIRST robotics program, I've designed and created many more robotics systems than the ones listed below. However, due to a schoolwide Google account wipe, I no longer have access to the media documenting them. If you have any questions or would like to know more about my robotics portfolio, please contact me at trentkiyohara@gmail.com
+
+Some other systems that I lead the design of:
+ball intake and magazine
+modular superstructure for subsystem and bumper mounting
+collapsable, pulley-driven vertical actuator
+grappling hook deployer and climber
+commutable rapid testing table for flywheel designs
+\--
  
 
-## Ring Actuator
-- powered using pressurized air tanks and controled using solinoid valves
-- created using multiple manufacturing techniques including an automated CNC machine
+## Ring Actuator (best documented)
+- produced following iterative prototyping and design refinements
+- designed with mechanical failure points to prevent damage to the mechanism during significant collisions
+- utilizes custom, onboard vision-targeting software to load and place rings on targets
+- powered using pressurized air tanks/pneumatics and controlled via solenoid valves
+- created using a variety of manufacturing techniques ranging from automated CNC to hand tools
 - extremely reliable both in testing and on the field
-- built with failure points in mind to insure that, on colision, the mechanism itself would remain unharmed
-
-
-## Hook Deployment Arm And Winch
-- created with a lifting capacity of multiple hundreds of pounds
-- developed under intense time presure and limited resources
-- utilizes only one motor for its entire motion and was built and tested in less than 4 weeks
-- designed to take minimal space and to fit "around" all other systems that had already been incorperated on the robot
  
  
-## Velcro Climbing Winch With Custom Rope
+## Winch Climber
 - first subsystem I ever led the creation of
 - build and designed in 8th grade
-- unanamously recognized as the most reliable system on the robot that year
+- unanimously recognized as the most reliable system on the robot that year
 - built using several common manufacturing tools (e.g. drill presses, circular saws, etc.), as well as several uncommon ones (such as a sewing awl and other fabric tools)
