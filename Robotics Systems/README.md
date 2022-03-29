@@ -1,8 +1,8 @@
 # Resume-Robotics-Systems-Examples
 Examples of Previous Robotics Systems that I lead the design and construction of demonstrating design and manufacturing abilities
 
---
-**IMPORTANT NOTE**: Over my career participating in the FIRST robotics program, I've designed and created many more robotics systems than the ones listed below. However, due to a schoolwide Google account wipe, I no longer have access to the media documenting them. If you have any questions or would like to know more about my robotics portfolio, please contact me at trentkiyohara@gmail.com
+## IMPORTANT NOTE: 
+**Over my career participating in the FIRST robotics program, I've designed and created many more robotics systems than the ones listed below. However, due to a schoolwide Google account wipe, I no longer have access to the media documenting them. If you have any questions or would like to know more about my robotics portfolio, please contact me at trentkiyohara@gmail.com**
 
 Some other systems that I lead the design of:
 ball intake and magazine
@@ -10,7 +10,6 @@ modular superstructure for subsystem and bumper mounting
 collapsable, pulley-driven vertical actuator
 grappling hook deployer and climber
 commutable rapid testing table for flywheel designs
-\--
  
 
 ## Ring Actuator (best documented)
