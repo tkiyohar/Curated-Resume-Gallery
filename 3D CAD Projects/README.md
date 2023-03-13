@@ -4,8 +4,8 @@ Examples of Previous CAD Projects demonstrating familiarity and proficiency acro
 
 ## ⭐⭐ Capstone: Custom Pencil Plotter (Fusion 360) ⭐⭐
 - Created in three month over Summer 2022 using Fusion 360
-- Seperate wiring schematics created following multiple iterations of research and crowd sourcing
-- Complete cost and shiping sheet for materials
+- Seperately includes a complete wiring schematic for electronic parts
+- Follows incrimental completion plan and cost/sourcing sheet for materials (also included)
 
 
 ## 3D Printed Chu Repeating Crossbow (Inventor)
