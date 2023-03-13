@@ -11,7 +11,7 @@ Examples of Previous Robotics Systems that I lead the design and construction of
 5. commutable rapid testing table for flywheel designs
 </pre>
 
-## Ring Actuator (well documented)
+## ⭐⭐ Capstone: Ring Actuator ⭐⭐
 - produced following iterative prototyping and design refinements
 - designed with mechanical failure points to prevent damage to the mechanism during significant collisions
 - utilizes custom, onboard vision-targeting software to load and place rings on targets
