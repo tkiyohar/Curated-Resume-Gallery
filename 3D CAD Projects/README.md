@@ -2,9 +2,9 @@
 Examples of Previous CAD Projects demonstrating familiarity and proficiency across multiple CAD programs
  
 
-## **Capstone: Custom Pencil Printer (Fusion 360)**
+## Capstone: Custom Pencil Plotter (Fusion 360)
 - Created in three month over Summer 2022 using Fusion 360
-- Seperate wiring schematics created after multiple iterations following weeks of research and crowd sourcing
+- Seperate wiring schematics created following multiple iterations of research and crowd sourcing
 - Complete cost and shiping sheet for materials
 
 
