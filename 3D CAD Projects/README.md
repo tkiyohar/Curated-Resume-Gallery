@@ -2,6 +2,12 @@
 Examples of Previous CAD Projects demonstrating familiarity and proficiency across multiple CAD programs
  
 
+## **Capstone: Custom Pencil Printer (Fusion 360)**
+- Created in three month over Summer 2022 using Fusion 360
+- Seperate wiring schematics created after multiple iterations following weeks of research and crowd sourcing
+- Complete cost and shiping sheet for materials
+
+
 ## 3D Printed Chu Repeating Crossbow (Inventor)
 - Created using Autodesk Inventor
 - Modeled after historical measurements and mechanisms used in the ancient Chu repeating crossbows
