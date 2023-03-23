@@ -2,13 +2,12 @@
 Examples of previous coding projects documenting problem identification skills as well as coding literacy
  
 
-## UCSDCoursesScraper
+## ⭐⭐ Capstone: UCSDCoursesScraper ⭐⭐
 - Most recent and most ambitious python automation process to date
 - Incorporates Python's “Selenium” package to log in to and web-scrape our school's course enrollment tool to retrieve a student's course info. Then uses the "googleapiclient" package to create a custom color-coordinated calendar with descriptive events for each of the student's courses.
 - Incorporates other “base” packages like “re” (regular expression), “pickle” (serialize package), “sys” (for custom error throwing and handling), and “pprint” (used for debugging unwieldy outputs).
 - Written to avoid problems I'd encounter previously with my "LAB_HOURS" program maxing out Google's free API calls
 - Automates what would usually amount to multiple hours of busywork into a few minutes.
-- Have received significant interest from all UCSD students who have seen my program at UCSD to sell my code (I haven’t been able to though due to legal issues concerning the data my code handles).
  
  
 ## LAB_HOURS
@@ -25,4 +24,3 @@ Examples of previous coding projects documenting problem identification skills a
 - Written to take any Spanish words I wasn't familiar with on my screen, plugging them into a translator, and creating flashcards of them on an online tool called Quizlet (required by my Spanish class at the time).
 - Wherein the macro-less process took ~45 seconds per word to do manually, my finalized program made each word take as little as 3 seconds.
 - This was later used to successfully document to our Spanish teacher that the texts we were given exceeded our current Spanish proficiency.
-- Despite its crude nature, I received multiple monetary offers from my peers to adapt my code to run on their computers.
