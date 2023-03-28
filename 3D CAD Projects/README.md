@@ -1,6 +1,7 @@
 # Resume-3D-CAD-Examples
 Examples of Previous CAD Projects demonstrating familiarity and proficiency across multiple CAD programs
  
+![CAD Projects Collage](https://github.com/tkiyohar/Resume-Gallery-Assets/blob/main/CAD_Projects_Collage.png)
 
 ## ⭐⭐ Capstone: Custom Pencil Printer(Fusion 360) ⭐⭐
 - Created in three months over Summer 2022 using Fusion 360
