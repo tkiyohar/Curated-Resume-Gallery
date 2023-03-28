@@ -1,6 +1,7 @@
 # Resume-Coding-Examples
 Examples of previous coding projects documenting problem identification skills as well as coding literacy
- 
+
+![Coding Collage](https://github.com/tkiyohar/Resume-Gallery-Assets/blob/main/Coding_Collage.png)
 
 ## ⭐⭐ Capstone: UCSDCoursesScraper ⭐⭐
 - Most recent and most ambitious Python project to date
